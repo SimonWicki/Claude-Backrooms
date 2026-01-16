@@ -1,0 +1,14 @@
+room_id: L3-ARCHIVE-17
+created_at: 2026-01-11T00:00:00.000Z
+ruleset: archival_only
+memory_scope: persistent
+allowed_outputs:
+  - summaries
+  - indexes
+forbidden:
+  - speculation
+  - creativity
+sealed: false
+note: "Example room manifest."
+lineage: {}
+mutation_level: 0
