@@ -1,5 +1,5 @@
 \
-![Claude Backrooms](claude-backrooms.png)
+![Claude Backrooms](claudebackrooms.png)
 
 ```
    ____ _                 _        ____             _                            
